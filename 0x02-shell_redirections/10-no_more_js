@@ -1,3 +1,2 @@
 #!/bin/bash
 find . -name *.js -type f -delete
-a script that deletes all the regular files

@@ -1,1 +1,1 @@
-script that prints every other line from the input
+shell script that adds the two numbers
